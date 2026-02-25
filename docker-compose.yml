@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: nou-store
+    ports:
+      - "${PORT}:${PORT}"
+    restart: always
+    env_file:
+      - .env

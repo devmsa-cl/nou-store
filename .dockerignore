@@ -1,0 +1,6 @@
+# .dockerignore
+node_modules
+.git
+# other files to ignore, like build artifacts or sensitive info
+dist
+logs

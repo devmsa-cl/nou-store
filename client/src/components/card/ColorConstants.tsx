@@ -1,0 +1,15 @@
+export const colorMap: { [key: string]: string } = {
+  red: "#FF6254",
+  green: "#00b900",
+  blue: "#432df3",
+  white: "#e7e4e0",
+  yellow: "#f4cd4b",
+  grey: "#5f6262",
+  orange: "#f79125",
+  purple: "#f34a7c",
+  black: "#000000",
+  pink: "#f34a7c",
+  brown: "#5f6262",
+  maroon: "#550000",
+  "Navy Blue": "#000080",
+};
